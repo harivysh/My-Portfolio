@@ -1,0 +1,9 @@
+<svg id="10015.io" viewBox="0 0 480 480" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+	<path fill="#474bff" d="M334.5,320.5Q240,401,155.5,320.5Q71,240,155.5,135.5Q240,31,334.5,135.5Q429,240,334.5,320.5Z" />
+	<image class="home__blob-img"  x='30' y='46' xlink:href="" />
+</svg>
+
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+                            <path fill="#0F62FE" d="M65.9,-37C75.6,-21.2,67.1,6.3,53,29.4C39,52.4,19.5,71.1,-1,71.7C-21.4,72.2,-42.8,54.7,-56.1,32.1C-69.3,9.5,-74.3,-18.1,-63.5,-34.5C-52.8,-50.9,-26.4,-56,0.8,-56.5C28.1,-57,56.1,-52.8,65.9,-37Z" transform="translate(100 100)" />
+                            <image class="home__blob-img"  x='30' y='46' xlink:href="assets/img/hari-dev.png" />
+                        </svg>
